@@ -1,2 +1,2 @@
 # Chat-App
-this is made by using next.js and rect.js 
+this is made by using node.js and rect.js 
